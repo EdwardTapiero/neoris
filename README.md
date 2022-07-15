@@ -18,5 +18,5 @@ Clona el repositorio o descarga el repositorio en formato ZIP
   1. Ingresa a la ruta `cd neoris` desde la consola
   2. Ejecuta el comando `mvn clean package`
   3. Ejecuta el comando `docker build -t neoris .`
-  4. Ejecuta el comando docker run -p 8080:8080 neoris`
+  4. Ejecuta el comando `docker run -p 8080:8080 neoris`
   5. Se ejecutará por defecto en [localhost:8080]()
